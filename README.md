@@ -1,2 +1,5 @@
 # TheOdinProject-Landing-Page
-Landing page Project/assignment for The Odin Project
+Ace0fspad3s's repo for an assignment via The Odin Project:
+The Odin Porject's Project: Landing Page
+See https://www.theodinproject.com/lessons/foundations-landing-page
+
