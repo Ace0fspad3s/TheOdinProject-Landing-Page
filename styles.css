@@ -1,0 +1,37 @@
+
+/* enable flex displays once  once layout is done. */
+/* Set background color of body to  #1F2937 once complete, its just set to its current color for debugging.*/
+body{background-color: #475870; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.header{
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    /* display: flex; */
+
+}
+.logo{font-size: 24px; color: #F9FAF8;}
+.hero{font-size: 48px; color: #F9FAF8;}
+.button{display: inline-block; background-color: #3882F6; color: #E5E7EB;}
+
+.information{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: extra-bold;
+    color: #1F2937;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.callToAction{
+    background-color: #3882F6;
+}
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB
+}
+
